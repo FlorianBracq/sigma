@@ -327,6 +327,7 @@ https://car.mitre.org/wiki/CAR-2013-05-002
 https://car.mitre.org/wiki/CAR-2016-04-005
 https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/analytics/service_registry_permissions_weakness_check/
 https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/analytics/task_scheduling/
+https://cert.gov.ua/article/6277849
 https://chromeenterprise.google/policies/?policy=DnsOverHttpsMode
 https://chromium.googlesource.com/chromium/chromium/+/master/content/public/common/content_switches.cc
 https://citizenlab.ca/2021/07/hooking-candiru-another-mercenary-spyware-vendor-comes-into-focus/
@@ -498,6 +499,7 @@ https://docs.github.com/en/organizations/keeping-your-organization-secure/managi
 https://docs.github.com/en/organizations/managing-oauth-access-to-your-organizations-data/disabling-oauth-app-access-restrictions-for-your-organization
 https://docs.github.com/en/organizations/managing-organization-settings/transferring-organization-ownership
 https://docs.github.com/en/repositories/archiving-a-github-repository/archiving-repositories
+https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository
 https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-security-and-analysis-settings-for-your-repository
 https://docs.google.com/presentation/d/1dkrldTTlN3La-OjWtkWJBb4hVk6vfsSMBFBERs6R8zA/edit
 https://docs.google.com/spreadsheets/d/17pSTDNpa0sf6pHeRhusvWG6rThciE8CsXTSlDUAZDyo
@@ -1151,6 +1153,7 @@ https://github.com/nasbench/EVTX-ETW-Resources/blob/7a806a148b3d9d381193d4a80356
 https://github.com/nasbench/EVTX-ETW-Resources/blob/f1b010ce0ee1b71e3024180de1a3e67f99701fe4/ETWProvidersManifests/Windows10/1803/W10_1803_Pro_19700101_17134.1/WEPExplorer/Application%20Popup.xml#L36
 https://github.com/nasbench/EVTX-ETW-Resources/blob/f1b010ce0ee1b71e3024180de1a3e67f99701fe4/ETWProvidersManifests/Windows10/22H2/W10_22H2_Pro_20230321_19045.2728/WEPExplorer/LsaSrv.xml
 https://github.com/nasbench/EVTX-ETW-Resources/blob/f1b010ce0ee1b71e3024180de1a3e67f99701fe4/ETWProvidersManifests/Windows11/22H2/W11_22H2_Pro_20221220_22621.963/WEPExplorer/Microsoft-Windows-MsiServer.xml
+https://github.com/nasbench/Misc-Research/blob/2f651ede832ab34027a7ba005b63bb78f1ade378/Other/React-Next-Child-Processes-Notes.md
 https://github.com/nasbench/Misc-Research/blob/8ee690e43a379cbce8c9d61107442c36bd9be3d3/Other/Undocumented-Flags-Sdbinst.md
 https://github.com/nasbench/Misc-Research/blob/b20da2336de0f342d31ef4794959d28c8d3ba5ba/ETW/Microsoft-Windows-Kernel-General.md
 https://github.com/nasbench/Misc-Research/blob/d114d6a5e0a437d3818e492ef9864367152543e7/Other/Persistence-Via-RegisterAppRestart-Shim.md
@@ -1177,6 +1180,7 @@ https://github.com/nknorg/nkn-sdk-go
 https://github.com/nsacyber/Event-Forwarding-Guidance/tree/6e92d622fa33da911f79e7633da4263d632f9624/Events
 https://github.com/offsecginger/koadic/blob/457f9a3ff394c989cdb4c599ab90eb34fb2c762c/data/stager/js/stdlib.js
 https://github.com/ohpe/juicy-potato
+https://github.com/okta/workflows-templates/blob/1164f0eb71ce47c9ddc7d850e9ab87b5a2b42333/workflows/suspicious_activity_reported/readme.md
 https://github.com/okta/workflows-templates/blob/master/workflows/suspicious_activity_reported/readme.md
 https://github.com/olafhartong/sysmon-modular/blob/fa1ae53132403d262be2bbd7f17ceea7e15e8c78/11_file_create/include_dotnet.xml
 https://github.com/openssh/openssh-portable/blob/c483a5c0fb8e8b8915fad85c5f6113386a4341ca/ssherr.c
@@ -1290,6 +1294,7 @@ https://github.com/redcanaryco/atomic-red-team/blob/5c1e6f1b4fafd01c8d1ece85f510
 https://github.com/redcanaryco/atomic-red-team/blob/5c1e6f1b4fafd01c8d1ece85f510160fc1275fbf/atomics/T1546.008/T1546.008.md
 https://github.com/redcanaryco/atomic-red-team/blob/5c1e6f1b4fafd01c8d1ece85f510160fc1275fbf/atomics/T1562.001/T1562.001.md
 https://github.com/redcanaryco/atomic-red-team/blob/5c3b23002d2bbede3c07e7307165fc2a235a427d/atomics/T1564.004/T1564.004.md#atomic-test-5---create-hidden-directory-via-index_allocation
+https://github.com/redcanaryco/atomic-red-team/blob/5ede8f21e42ebe37e0a6eff757dba60bcfa85859/atomics/T1547.001/T1547.001.md
 https://github.com/redcanaryco/atomic-red-team/blob/73fcfa1d4863f6a4e17f90e54401de6e30a312bb/atomics/T1112/T1112.md#atomic-test-3---modify-registry-to-store-logon-credentials
 https://github.com/redcanaryco/atomic-red-team/blob/74438b0237d141ee9c99747976447dc884cb1a39/atomics/T1505.005/T1505.005.md
 https://github.com/redcanaryco/atomic-red-team/blob/74438b0237d141ee9c99747976447dc884cb1a39/atomics/T1547.015/T1547.015.md#atomic-test-1---persistence-by-modifying-windows-terminal-profile
@@ -1833,6 +1838,7 @@ https://lab52.io/blog/winter-vivern-all-summer/
 https://labs.f-secure.com/blog/detecting-cobalt-strike-default-modules-via-named-pipe-analysis/
 https://labs.f-secure.com/blog/prelude-to-ransomware-systembc
 https://labs.f-secure.com/blog/scheduled-task-tampering/
+https://labs.jumpsec.com/tokensmith-bypassing-intune-compliant-device-conditional-access/
 https://labs.sentinelone.com/egregor-raas-continues-the-chaos-with-cobalt-strike-and-rclone
 https://labs.sentinelone.com/living-off-windows-land-a-new-native-file-downldr/
 https://labs.sentinelone.com/meteorexpress-mysterious-wiper-paralyzes-iranian-trains-with-epic-troll
@@ -2032,6 +2038,7 @@ https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/se
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4649
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4661
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4662
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4673
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4698
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4699
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4701
@@ -2077,6 +2084,7 @@ https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/
 https://learn.microsoft.com/en-us/visualstudio/deployment/how-to-configure-the-clickonce-trust-prompt-behavior
 https://learn.microsoft.com/en-us/windows-hardware/customize/desktop/unattend/security-malware-windows-defender-threatseveritydefaultaction
 https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/powercfg-command-line-options
+https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/devcon
 https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/dtrace
 https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/pnputil-command-syntax
 https://learn.microsoft.com/en-us/windows-hardware/drivers/taef/
@@ -2152,6 +2160,7 @@ https://learn.microsoft.com/en-us/windows/win32/api/wincred/nf-wincred-creduipro
 https://learn.microsoft.com/en-us/windows/win32/api/winevt/
 https://learn.microsoft.com/en-us/windows/win32/appxpkg/troubleshooting
 https://learn.microsoft.com/en-us/windows/win32/cimwin32prov/delete-method-in-class-win32-service
+https://learn.microsoft.com/en-us/windows/win32/debug/configuring-automatic-debugging
 https://learn.microsoft.com/en-us/windows/win32/eventlog/eventlog-key
 https://learn.microsoft.com/en-us/windows/win32/intl/code-page-identifiers
 https://learn.microsoft.com/en-us/windows/win32/msi/event-logging
@@ -2492,6 +2501,7 @@ https://onapsis.com/blog/active-exploitation-of-sap-vulnerability-cve-2025-31324
 https://onedrive.live.com/view.aspx?resid=D026B4699190F1E6!2843&ithint=file%2cpptx&app=PowerPoint&authkey=!AMvCRTKB_V1J5ow
 https://opencanary.readthedocs.io/en/latest/starting/configuration.html#services-configuration
 https://outflank.nl/blog/2018/01/16/hunting-for-evil-detect-macros-being-executed/
+https://outpost24.com/blog/crushftp-auth-bypass-vulnerability/
 https://owasp.org/www-community/vulnerabilities/Expression_Language_Injection
 https://owasp.org/www-community/vulnerabilities/XML_External_Entity_(XXE)_Processing
 https://owasp.org/www-pdf-archive/Shellshock_-_Tudor_Enache.pdf
@@ -2610,6 +2620,7 @@ https://redcanary.com/blog/rclone-mega-extortion/
 https://redcanary.com/blog/right-to-left-override/
 https://redcanary.com/blog/yellow-cockatoo/
 https://redcanary.com/threat-detection-report/
+https://redcanary.com/threat-detection-report/techniques/installer-packages/
 https://redcanary.com/threat-detection-report/threats/cobalt-strike/
 https://redcanary.com/threat-detection-report/threats/dridex/
 https://redcanary.com/threat-detection-report/threats/qbot/
@@ -2635,6 +2646,7 @@ https://research.checkpoint.com/ryuk-ransomware-targeted-campaign-break/
 https://research.eye.security/sharepoint-under-siege/
 https://research.kudelskisecurity.com/2023/06/12/cve-2023-27997-fortigate-ssl-vpn/
 https://research.nccgroup.com/2018/05/18/emissary-panda-a-potential-new-malicious-tool/
+https://research.nccgroup.com/2018/11/22/turla-png-dropper-is-back/
 https://research.nccgroup.com/2020/06/23/wastedlocker-a-new-ransomware-variant-developed-by-the-evil-corp-group/
 https://research.nccgroup.com/2020/07/10/rift-citrix-adc-vulnerabilities-cve-2020-8193-cve-2020-8195-and-cve-2020-8196-intelligence/
 https://research.nccgroup.com/2021/01/12/abusing-cloud-services-to-fly-under-the-radar/
@@ -2776,6 +2788,7 @@ https://ssd-disclosure.com/ssd-advisory-common-log-file-system-clfs-driver-pe/
 https://stackoverflow.com/questions/20010199/how-to-determine-if-a-process-runs-inside-lxc-docker
 https://stackoverflow.com/questions/25892194/does-rails-come-with-a-not-authorized-exception
 https://stackoverflow.com/questions/42442320/ssh-tunnel-to-ngrok-and-initiate-rdp
+https://stackoverflow.com/questions/66011412/how-to-clear-a-event-log-in-powershell-7
 https://stealthbits.com/blog/extracting-password-hashes-from-the-ntds-dit-file/
 https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation
 https://steemit.com/utopian-io/@ah101/uac-bypassing-utility
@@ -2838,6 +2851,7 @@ https://symantec-enterprise-blogs.security.com/threat-intelligence/harvester-new
 https://sysdig.com/blog/mitre-defense-evasion-falco
 https://systeminformer.sourceforge.io/
 https://t.co/ezOTGy1a1G
+https://taggart-tech.com/evildeno/
 https://taggart-tech.com/quasar-electron/
 https://taiwan.postsen.com/business/88601/Hamas-hackers-use-data-destruction-software-BiBi-which-consumes-a-lot-of-processor-resources-to-wipe-Windows-computer-data--iThome.html
 https://talesfrominfosec.blogspot.com/2017/12/killing-sysmon-silently.html
@@ -2895,11 +2909,13 @@ https://thedfirreport.com/2022/11/28/emotet-strikes-again-lnk-file-leads-to-doma
 https://thedfirreport.com/2023/01/09/unwrapping-ursnifs-gifts/
 https://thedfirreport.com/2023/02/06/collect-exfiltrate-sleep-repeat/
 https://thedfirreport.com/2023/03/06/2022-year-in-review/
+https://thedfirreport.com/2023/04/03/malicious-iso-file-leads-to-domain-wide-ransomware
 https://thedfirreport.com/2023/05/22/icedid-macro-ends-in-nokoyawa-ransomware/
 https://thedfirreport.com/2023/08/28/html-smuggling-leads-to-domain-wide-ransomware/
 https://thedfirreport.com/2023/10/30/netsupport-intrusion-results-in-domain-compromise/
 https://thedfirreport.com/2024/06/10/icedid-brings-screenconnect-and-csharp-streamer-to-alphv-ransomware-deployment/#detections
 https://thedfirreport.com/2024/09/30/nitrogen-campaign-drops-sliver-and-ends-with-blackcat-ransomware/
+https://thedfirreport.com/2025/05/19/another-confluence-bites-the-dust-falling-to-elpaco-team-ransomware/
 https://thedfirreport.com/2025/06/30/hide-your-rdp-password-spray-leads-to-ransomhub-deployment/
 https://thehackernews.com/2023/10/experts-warn-of-severe-flaws-affecting.html
 https://thehackernews.com/2024/01/systembc-malwares-c2-server-analysis.html
@@ -2940,6 +2956,7 @@ https://tria.ge/211119-gs7rtshcfr/behavioral2 [Lokibot sample from Nov 2021]
 https://tria.ge/220422-1nnmyagdf2/
 https://tria.ge/220422-1pw1pscfdl/
 https://tria.ge/231004-tp8k6sch9t/behavioral2
+https://tria.ge/231212-r1bpgaefar/behavioral2
 https://tria.ge/240123-rapteaahhr/behavioral1
 https://tria.ge/240225-jlylpafb24/behavioral1/analog?main_event=Registry&op=SetValueKeyInt
 https://tria.ge/240226-fhbe7sdc39/behavioral1
@@ -3523,6 +3540,7 @@ https://www.bleepingcomputer.com/news/microsoft/microsoft-sysmon-now-detects-mal
 https://www.bleepingcomputer.com/news/microsoft/new-windows-zero-day-with-public-exploit-lets-you-become-an-admin/
 https://www.bleepingcomputer.com/news/security/amazons-aws-ssm-agent-can-be-used-as-post-exploitation-rat-malware/
 https://www.bleepingcomputer.com/news/security/anydesk-says-hackers-breached-its-production-servers-reset-passwords/
+https://www.bleepingcomputer.com/news/security/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/
 https://www.bleepingcomputer.com/news/security/exploited-windows-zero-day-lets-javascript-files-bypass-security-warnings/
 https://www.bleepingcomputer.com/news/security/fortinet-says-ssl-vpn-pre-auth-rce-bug-is-exploited-in-attacks/
 https://www.bleepingcomputer.com/news/security/gootkit-malware-bypasses-windows-defender-by-setting-path-exclusions/
@@ -3901,6 +3919,7 @@ https://www.netspi.com/blog/technical/network-penetration-testing/decrypting-iis
 https://www.netspi.com/blog/technical/network-penetration-testing/sql-server-persistence-part-1-startup-stored-procedures/
 https://www.nextron-systems.com/2021/08/16/antivirus-event-analysis-cheat-sheet-v1-8-2/
 https://www.nextron-systems.com/2021/10/24/monero-mining-pool-fqdns/
+https://www.nextron-systems.com/2024/03/22/unveiling-kamikakabot-malware-analysis/
 https://www.nextron-systems.com/?s=antivirus
 https://www.nirsoft.net/utils/nircmd.html
 https://www.nirsoft.net/utils/nircmd2.html#using
@@ -4043,6 +4062,7 @@ https://www.tenforums.com/tutorials/123792-turn-off-tamper-protection-microsoft-
 https://www.tenforums.com/tutorials/151318-how-enable-disable-dns-over-https-doh-microsoft-edge.html
 https://www.tenforums.com/tutorials/32236-enable-disable-microsoft-defender-pua-protection-windows-10-a.html
 https://www.thestack.technology/security-experts-call-for-incident-response-exercises-after-mass-cisco-device-exploitation/
+https://www.trellix.com/blogs/research/the-silent-fileless-threat-of-vshell/
 https://www.trellix.com/en-sg/about/newsroom/stories/threat-labs/lockergoga-ransomware-family-used-in-targeted-attacks.html
 https://www.trellix.com/en-us/about/newsroom/stories/research/beyond-file-search-a-novel-method.html
 https://www.trendmicro.com/content/dam/trendmicro/global/en/research/22/h/ransomware-actor-abuses-genshin-impact-anti-cheat-driver-to-kill-antivirus/Genshin%20Impact%20Figure%2010.jpg
